@@ -1,7 +1,7 @@
 # Tbird
 The component Tbird will be at tbird.vhd
 
-#TestBench
+# TestBench
 The testbench at testbench.vhd
 
 the top entity is the Tbird.vhd
